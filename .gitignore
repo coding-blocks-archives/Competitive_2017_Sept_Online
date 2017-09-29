@@ -1,0 +1,7 @@
+*.gch
+*.exe
+*.o
+*.out
+test.cpp
+in*
+out*
